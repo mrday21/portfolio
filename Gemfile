@@ -32,7 +32,7 @@ gem 'bootstrap-sass', '3.3.7'
 # Use Font Awesome saas gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 # User Paperclip for image upload
-gem 'paperclip', '4.3.6'
+gem "paperclip", ">= 5.2.0"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
